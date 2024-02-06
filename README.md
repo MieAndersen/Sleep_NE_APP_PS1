@@ -1,4 +1,4 @@
-# Sleep_NE_AAP_PS1
+# Sleep_NE_APP_PS1
 
 Code to reproduce figures in paper by Cankar et al. (2024).
 
