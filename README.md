@@ -1,6 +1,6 @@
 # Sleep_NE_APP_PS1
 
-Code to reproduce figures in paper by Cankar et al. (2024).
+Code to reproduce figures in "Sleep deprivation leads to non-adaptive alterations in sleep microarchitecture and amyloid-β accumulation in a murine Alzheimer model" by Cankar et al. (2024).
 
 The script "sleep_APP_PS1" was used to analyze 24 h EEG/EMG recordings, while "APP_interval_spectral" was used to analyze combined EEG and fiber photometry recordings.
 
